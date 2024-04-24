@@ -11,7 +11,7 @@ This is a simple web scraper that scrapes the latest blog titles from the websit
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/username/web-scraper.git
+    git clone https://github.com/rahulkarthickr/web-scraper.git
     ```
 
 2. Navigate to the project directory:
