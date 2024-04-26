@@ -1,4 +1,4 @@
-# Web Scraper
+# Blog Title Fetcher
 
 This is a simple web scraper that scrapes the latest blog titles from the website: https://golangcode.com
 
@@ -11,20 +11,20 @@ This is a simple web scraper that scrapes the latest blog titles from the websit
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/rahulkarthickr/web-scraper.git
+    git clone https://github.com/rahulkarthickr/blog-title-fetcher.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd web-scraper
+    cd blog-title-fetcher
     ```
 
 3. Compile and run the program:
 
     ```bash
     go build
-    ./web-scraper
+    ./blog-title-fetcher
     ```
 
 ## Dependencies
