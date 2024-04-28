@@ -23,8 +23,7 @@ This is a simple web scraper that scrapes the latest blog titles from the websit
 3. Compile and run the program:
 
     ```bash
-    go build
-    ./blog-title-fetcher
+    go run main.go
     ```
 
 ## Dependencies
